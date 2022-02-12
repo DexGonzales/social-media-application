@@ -1,0 +1,213 @@
+2021-11-22 12:32:32 error: [Cake\Controller\Exception\MissingActionException] Action ArticlesController::index.php() could not be found, or is not accessible. in C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\Controller.php on line 516
+Exception Attributes: array (
+  'controller' => 'ArticlesController',
+  'action' => 'index.php',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cake_cms\webroot\index.php:40
+
+Request URL: /Articles/index.php
+
+
+2021-11-22 12:32:34 error: [Cake\Controller\Exception\MissingActionException] Action ArticlesController::index.php() could not be found, or is not accessible. in C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\Controller.php on line 516
+Exception Attributes: array (
+  'controller' => 'ArticlesController',
+  'action' => 'index.php',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cake_cms\webroot\index.php:40
+
+Request URL: /Articles/index.php
+
+
+2021-11-22 12:37:09 error: [Cake\Controller\Exception\MissingActionException] Action ArticlesController::index.php() could not be found, or is not accessible. in C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\Controller.php on line 516
+Exception Attributes: array (
+  'controller' => 'ArticlesController',
+  'action' => 'index.php',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cake_cms\webroot\index.php:40
+
+Request URL: /Articles/index.php
+
+
+2021-11-22 12:37:17 error: [Cake\Controller\Exception\MissingActionException] Action ArticlesController::index.php() could not be found, or is not accessible. in C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\Controller.php on line 516
+Exception Attributes: array (
+  'controller' => 'ArticlesController',
+  'action' => 'index.php',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cake_cms\webroot\index.php:40
+
+Request URL: /Articles/index.php
+
+
+2021-11-22 12:39:33 error: [Cake\Controller\Exception\MissingActionException] Action ArticlesController::index.php() could not be found, or is not accessible. in C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\Controller.php on line 516
+Exception Attributes: array (
+  'controller' => 'ArticlesController',
+  'action' => 'index.php',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cake_cms\webroot\index.php:40
+
+Request URL: /Articles/index.php
+
+
+2021-11-22 12:46:18 error: [Cake\Controller\Exception\MissingActionException] Action ArticlesController::index.php() could not be found, or is not accessible. in C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\Controller.php on line 516
+Exception Attributes: array (
+  'controller' => 'ArticlesController',
+  'action' => 'index.php',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cake_cms\webroot\index.php:40
+
+Request URL: /Articles/index.php
+
+
+2021-11-22 12:50:04 error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "articles" in C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php on line 508
+Stack Trace:
+- C:\xampp\htdocs\cake_cms\src\Controller\ArticlesController.php:18
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\Controller.php:537
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\cake_cms\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cake_cms\webroot\index.php:40
+
+Request URL: /Articles/view/index
+
+
